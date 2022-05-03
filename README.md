@@ -18,6 +18,4 @@ Then you need to add a .lnk file in the shortcuts folder and make sure it has th
 So in this case you rename the lnk file to vsc
 
 Scuffed Stuff:
-- Make sure there aren't spaces/special characters. (there are no checks for this so its kind ascuffed)
-- You need to have the same exact .lnk file name as the one you input in 'add new app' 
-- You have to manually add .lnk file
+- Make sure there aren't spaces/special characters. (there are no checks for this so its kind ascuffed_
