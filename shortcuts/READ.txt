@@ -1,0 +1,1 @@
+add your .lnk shortcut files here so that the app can automatically open your file when you start playing 
